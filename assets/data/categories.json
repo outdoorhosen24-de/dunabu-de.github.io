@@ -1,107 +1,79 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "kopffreihauben",
+        "name": "Kopffreihauben",
+        "slug": "kopffreihauben",
+        "productCategory": "Kopffreihauben",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "wandhauben",
+        "name": "Wandhauben",
+        "slug": "wandhauben",
+        "productCategory": "Wandhauben",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "inselhauben",
+        "name": "Inselhauben",
+        "slug": "inselhauben",
+        "productCategory": "Inselhauben",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "flachschirmhauben",
+        "name": "Flachschirmhauben",
+        "slug": "flachschirmhauben",
+        "productCategory": "Flachschirmhauben",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "unterbauhauben",
+        "name": "Unterbauhauben",
+        "slug": "unterbauhauben",
+        "productCategory": "Unterbauhauben",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "lüftungssysteme",
+        "name": "Lüftungssysteme",
+        "slug": "luftungssysteme",
+        "productCategory": "Lüftungssysteme",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "flachkanalsysteme & rundrohrsysteme",
+        "name": "Flachkanalsysteme & Rundrohrsysteme",
+        "slug": "flachkanalsysteme-rundrohrsysteme",
+        "productCategory": "Flachkanalsysteme & Rundrohrsysteme",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "dunstabzugshauben-filter",
+        "name": "Dunstabzugshauben-Filter",
+        "slug": "dunstabzugshauben-filter",
+        "productCategory": "Dunstabzugshauben-Filter",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "aktivkohlefilter",
+        "name": "Aktivkohlefilter",
+        "slug": "aktivkohlefilter",
+        "productCategory": "Aktivkohlefilter",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "lüftungsgitter",
+        "name": "Lüftungsgitter",
+        "slug": "luftungsgitter",
+        "productCategory": "Lüftungsgitter",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
-        "subCategories": []
-    },
-    {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
-        "subCategories": []
-    },
-    {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
-        "subCategories": []
-    },
-    {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
-        "subCategories": []
-    },
-    {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "mauerlüfter",
+        "name": "Mauerlüfter",
+        "slug": "mauerlufter",
+        "productCategory": "Mauerlüfter",
         "subCategories": []
     }
 ]
