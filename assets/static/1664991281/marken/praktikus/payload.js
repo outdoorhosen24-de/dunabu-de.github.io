@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/praktikus", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/lueftungsgitter-500-mm-x-70-mm-fuer-arbeitsplatten-silber-praktikus-6511455-1.jpg":"\u002Fassets\u002Fimages\u002Flueftungsgitter-500-mm-x-70-mm-fuer-arbeitsplatten-silber-praktikus-6511455-1.webp"}}],fetch:{},mutations:void 0});

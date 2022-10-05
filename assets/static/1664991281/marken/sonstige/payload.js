@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/sonstige", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/auszen-und-innengitter-154-mm-x-154-mm-sonstige-5165451-1.jpg":"\u002Fassets\u002Fimages\u002Fauszen-und-innengitter-154-mm-x-154-mm-sonstige-5165451-1.webp"}}],fetch:{},mutations:void 0});
