@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "dunabu.de",
+    "hostname": "https://www.dunabu.de/",
+    "email": "dunabu.desurrealnetworks.io",
+    "organization": "dunabu.de",
+    "logoText": "Dunabu.de",
+    "title": "Dunstabzugshauben",
+    "subline": "Der Online Shop f\u00fcr Dunstabzugshauben",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "7622525",
+        "8250730",
+        "7421597",
+        "2135887",
+        "2537173",
+        "6511455"
+    ],
+    "winnerProducts": [
+        "7464266",
+        "2136166",
+        "7421613"
+    ],
+    "featuredCategories": [
+        "L\u00fcftungssysteme",
+        "Inselhauben",
+        "Kopffreihauben",
+        "L\u00fcftungsgitter",
+        "Flachkanalsysteme & Rundrohrsysteme",
+        "Mauerl\u00fcfter"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Dunstabzugshauben",
-        "featureText": "Your featured text goes here",
+        "featureText": "In unserem Shop finden Sie Dunstabzugshauben f\u00fcr jeden Einbauort und jeden Bedarf. Wir bieten Ihnen eine gro\u00dfe Auswahl an Modellen und Ausf\u00fchrungen, damit Sie die perfekte Dunstabzugshaube f\u00fcr Ihre K\u00fcche finden.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Dunstabzugshauben-Shop: Alles f\u00fcr Ihre K\u00fcche!",
+            "metaDescription": "Der Shop bietet Dunstabzugshauben in verschiedenen Ausf\u00fchrungen und Designs. Die Hauben sind in unterschiedlichen Preisklassen erh\u00e4ltlich.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Die besten Dunstabzugshauben im Test",
+                    "text": "Dunstabzugshauben sind ein wesentlicher Bestandteil einer funktionsf\u00e4higen K\u00fcche. Sie befinden sich in der Regel \u00fcber dem Herd und sorgen daf\u00fcr, dass D\u00e4mpfe und Ger\u00fcche, die beim Kochen entstehen, nach au\u00dfen geleitet werden. Damit sind Dunstabzugshauben unverzichtbar, wenn es darum geht, die Luft in der K\u00fcche sauber und frisch zu halten.\n\nDie meisten Dunstabzugshauben sind mit einem Motor ausgestattet, der die Luft anzieht und durch einen Filter leitet. Die Filter m\u00fcssen regelm\u00e4\u00dfig gereinigt oder ausgetauscht werden, damit die Haube ihre Funktion optimal erf\u00fcllen kann.\n\nDunstabzugshauben gibt es in vielen verschiedenen Ausf\u00fchrungen und Gr\u00f6\u00dfen. Sie k\u00f6nnen an die Decke oder an die Wand montiert werden und sind in verschiedenen Designs erh\u00e4ltlich. Beim Kauf einer Dunstabzugshaube sollte man vor allem auf die Gr\u00f6\u00dfe achten, damit sie perfekt zur K\u00fcche passt."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Dunstabzugshauben Shop: K\u00fcchenl\u00fcfter f\u00fcr saubere Luft",
+            "metaDescription": "Der Shop bietet Dunstabzugshauben f\u00fcr jeden Bedarf. Finden Sie die perfekte Haube f\u00fcr Ihre K\u00fcche.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Dunstabzugshauben-Hersteller",
+            "metaDescription": "Der f\u00fchrende Hersteller von Dunstabzugshauben in Deutschland. Wir bieten eine gro\u00dfe Auswahl an Dunstabzugshauben f\u00fcr jeden Bedarf.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT Dunstabzugshaube - perfekt f\u00fcr Ihre K\u00fcche",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die beste Dunstabzugshaube f\u00fcr Ihre K\u00fcche. Jetzt kaufen und $KATEGORIE genie\u00dfen!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Die besten Dunstabzugshauben im Test",
+        "defaultMetaDescription": "$KATEGORIE Dunstabzugshauben - Jetzt die gro\u00dfe Markenvielfalt bei OBI entdecken! OBI - alles f\u00fcr Heim, Haus, Garten und Bau.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER Dunstabzugshauben - die besten Modelle im Test. Vergleiche die besten Dunstabzugshauben und finde die f\u00fcr dich richtige.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Dunstabzugshauben",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Dunstabzugshauben Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Dunstabzugshauben Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
