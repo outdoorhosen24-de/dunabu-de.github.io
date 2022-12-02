@@ -51,12 +51,15 @@
             "title": "Dunstabzugshauben-Shop: Alles für Ihre Küche!",
             "metaDescription": "Der Shop bietet Dunstabzugshauben in verschiedenen Ausführungen und Designs. Die Hauben sind in unterschiedlichen Preisklassen erhältlich.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Die besten Dunstabzugshauben im Test",
-                    "text": "Dunstabzugshauben sind ein wesentlicher Bestandteil einer funktionsfähigen Küche. Sie befinden sich in der Regel über dem Herd und sorgen dafür, dass Dämpfe und Gerüche, die beim Kochen entstehen, nach außen geleitet werden. Damit sind Dunstabzugshauben unverzichtbar, wenn es darum geht, die Luft in der Küche sauber und frisch zu halten.\n\nDie meisten Dunstabzugshauben sind mit einem Motor ausgestattet, der die Luft anzieht und durch einen Filter leitet. Die Filter müssen regelmäßig gereinigt oder ausgetauscht werden, damit die Haube ihre Funktion optimal erfüllen kann.\n\nDunstabzugshauben gibt es in vielen verschiedenen Ausführungen und Größen. Sie können an die Decke oder an die Wand montiert werden und sind in verschiedenen Designs erhältlich. Beim Kauf einer Dunstabzugshaube sollte man vor allem auf die Größe achten, damit sie perfekt zur Küche passt."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Die besten Dunstabzugshauben im Test",
+                        "text": "Dunstabzugshauben sind ein wesentlicher Bestandteil einer funktionsfähigen Küche. Sie befinden sich in der Regel über dem Herd und sorgen dafür, dass Dämpfe und Gerüche, die beim Kochen entstehen, nach außen geleitet werden. Damit sind Dunstabzugshauben unverzichtbar, wenn es darum geht, die Luft in der Küche sauber und frisch zu halten.\n\nDie meisten Dunstabzugshauben sind mit einem Motor ausgestattet, der die Luft anzieht und durch einen Filter leitet. Die Filter müssen regelmäßig gereinigt oder ausgetauscht werden, damit die Haube ihre Funktion optimal erfüllen kann.\n\nDunstabzugshauben gibt es in vielen verschiedenen Ausführungen und Größen. Sie können an die Decke oder an die Wand montiert werden und sind in verschiedenen Designs erhältlich. Beim Kauf einer Dunstabzugshaube sollte man vor allem auf die Größe achten, damit sie perfekt zur Küche passt."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Dunstabzugshauben Shop: Küchenlüfter für saubere Luft",
