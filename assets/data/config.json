@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "dunabu.de",
     "hostname": "https://www.dunabu.de/",
     "email": "dunabu.de@surrealnetworks.io",
     "organization": "dunabu.de",
     "logoText": "Dunabu.de",
-    "title": "Dunstabzugshauben",
-    "subline": "Der Online Shop für Dunstabzugshauben",
+    "title": "Dunabu",
+    "subline": "Der Shop für Dunstabzugshauben, Lüftungsgitter und Aktivkohlefilter",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Dunstabzugshauben",
-        "featureText": "In unserem Shop finden Sie Dunstabzugshauben für jeden Einbauort und jeden Bedarf. Wir bieten Ihnen eine große Auswahl an Modellen und Ausführungen, damit Sie die perfekte Dunstabzugshaube für Ihre Küche finden.",
+        "featureText": "Herzlich willkommen auf dunabu.de! Wir freuen uns dir unser großes Angebot an verschiedensten Dunstabzugshauben, Lüftungsgitter und Aktivkohlefilter zu präsentieren. Mit unserem Sortiment im Bereich Dunstabzugshauben finden wir mit dir die für dich passende Dunstabzugshaube. Egal ob Kopffreihauben, Wandhauben, Inselhauben, Flachschirmhauben oder Unterbauhauben. Doch wir halten noch mehr bereit! Solltest du Flachkanalsysteme & Rundrohrsysteme, Lüftungssysteme, Dunstabzugshauben-Filter oder Mauerlüfter suchen, dann wirst du auf dunabu.de garantiert fündig.",
         "index": {
-            "title": "Dunstabzugshauben-Shop: Alles für Ihre Küche!",
-            "metaDescription": "Der Shop bietet Dunstabzugshauben in verschiedenen Ausführungen und Designs. Die Hauben sind in unterschiedlichen Preisklassen erhältlich.",
+            "title": "Lüftungsgitter und Aktivkohlefilter | dunabu.de",
+            "metaDescription": "Finde jetzt günstige Lüftungsgitter, Aktivkohlefilter, Kopffreihauben, Wandhauben, Inselhauben, Lüftungssysteme, Dunstabzugshauben-Filter oder Mauerlüfter.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Dunstabzugshauben Shop: Küchenlüfter für saubere Luft",
-            "metaDescription": "Der Shop bietet Dunstabzugshauben für jeden Bedarf. Finden Sie die perfekte Haube für Ihre Küche.",
+            "title": "Lüftungsgitter und Aktivkohlefilter | Online Shop ",
+            "metaDescription": "Jetzt im Shop: Lüftungsgitter, Aktivkohlefilter, Kopffreihauben, Wandhauben, Inselhauben, Lüftungssysteme, Dunstabzugshauben-Filter oder Mauerlüfter.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Dunstabzugshauben-Hersteller",
-            "metaDescription": "Der führende Hersteller von Dunstabzugshauben in Deutschland. Wir bieten eine große Auswahl an Dunstabzugshauben für jeden Bedarf.",
+            "title": "Hersteller für Dunstabzugshauben und Zubehör im Überblick",
+            "metaDescription": "Alle Hersteller für Dunstabzugshauben, Lüftungsgitter oder Akitvkohlefilter von Respekta, Wolkenstein, PKM, Flex-Well, Marley oder Praktikus im Überblick.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT Dunstabzugshaube - perfekt für Ihre Küche",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die beste Dunstabzugshaube für Ihre Küche. Jetzt kaufen und $KATEGORIE genießen!",
+        "defaultTitle": "$PRODUKT | dunabu.de",
+        "defaultMetaDescription": "Kaufe jetzt $PRODUKT aus unserem Sortiment der $KATEGORIE. Produziert von unserem Top Hersteller $HERSTELLER. | dunabu.de",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Die besten Dunstabzugshauben im Test",
-        "defaultMetaDescription": "$KATEGORIE Dunstabzugshauben - Jetzt die große Markenvielfalt bei OBI entdecken! OBI - alles für Heim, Haus, Garten und Bau.",
+        "defaultTitle": "$KATEGORIE | Schnell. Günstig. Einfach.",
+        "defaultMetaDescription": "Kaufe jetzt auf dunabu.de günstige $KATEGORIE zum fairen Preis von namenhaften Herstellern wie Marley, Wolkenstein und vielen mehr!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Dunstabzugshauben - die besten Modelle im Test. Vergleiche die besten Dunstabzugshauben und finde die für dich richtige.",
+        "defaultTitle": "$HERSTELLER | Qualität zum kleinen Preis",
+        "defaultMetaDescription": "Auf der Suche nach Lüftungsgitter, Aktivkohlefilter oder Dunstabzugshauben? Hier bekommst du mit unseren Produkten von $HERSTELLER Qualität zum kleinen Preis.",
         "defaultRobots": "index, follow",
         "brands": [
             {
