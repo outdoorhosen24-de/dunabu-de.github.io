@@ -37,7 +37,7 @@
     {
         "key": "lüftungssysteme",
         "name": "Lüftungssysteme",
-        "slug": "luftungssysteme",
+        "slug": "lueftungssysteme",
         "productCategory": "Lüftungssysteme",
         "subCategories": []
     },
@@ -65,14 +65,14 @@
     {
         "key": "lüftungsgitter",
         "name": "Lüftungsgitter",
-        "slug": "luftungsgitter",
+        "slug": "lueftungsgitter",
         "productCategory": "Lüftungsgitter",
         "subCategories": []
     },
     {
         "key": "mauerlüfter",
         "name": "Mauerlüfter",
-        "slug": "mauerlufter",
+        "slug": "mauerluefter",
         "productCategory": "Mauerlüfter",
         "subCategories": []
     }
